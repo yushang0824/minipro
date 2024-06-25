@@ -15,6 +15,9 @@ Page({
         zh: '微信登录',
         url: 'login/login'
       }, {
+        zh: '微信登录2',
+        url: 'login2/login2'
+      }, {
         zh: '获取用户信息',
         url: 'get-user-info/get-user-info'
       }, {

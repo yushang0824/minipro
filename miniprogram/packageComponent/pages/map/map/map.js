@@ -33,7 +33,7 @@ Page({
       strokeWidth: 3,
       strokeColor: '#FFFFFFAA',
     }],
-    subKey: 'B5QBZ-7JTLU-DSSVA-2BRJ3-TNXLF-2TBR7',
+    subKe1y: 'B5QBZ-7JTLU-DSSVA-2BRJ3-TNXLF-2TBR7',
     enable3d: false,
     showCompass: false,
     enableOverlooking: false,

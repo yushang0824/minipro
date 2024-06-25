@@ -49,6 +49,7 @@
       "root": "packageAPI",
       "pages": [
         "pages/api/login/login",
+        "pages/api/login2/login2",
         "pages/api/get-user-info/get-user-info",
         "pages/api/request-payment/request-payment",
         "pages/api/jump/jump",
